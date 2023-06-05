@@ -1,0 +1,15 @@
+# this is how your .side.yml should look like
+capabilities:
+    browserName: "Chrome"
+    browserVersion: '113.0'
+    'bstack:options':
+      os: "Windows"
+      osVersion: '10'
+      resolution: '1024x768'
+      sessionName: 'Selenium IDE automate W3C Desktop'
+      buildName: 'Selenium IDE automate W3C Desktop'
+      projectName: 'Selenium IDE automate W3C Desktop'
+      debug: true
+      consoleLogs: "verbose"
+      networkLogs: true
+server: "https://daniil137:ZXxQJu1ijUzqLzsxGis2@hub-cloud.browserstack.com/wd/hub"
